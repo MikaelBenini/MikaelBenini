@@ -15,11 +15,11 @@
 
 
 ### Um pouco sobre mim!  
-Olá! Meu nome é Mikael Siqueira Benini e sou formado em Engenharia de Software. Desde o início de minha carreira, sempre me interessei por atuar como full stack, ou seja, desenvolvendo soluções que abranjam desde o back-end até o front-end.
+Olá! Me chamo Mikael Siqueira Benini e sou formado em Engenharia de Software. Desde o início de minha carreira, tenho buscado atuar no desenvolvimento de soluções, utilizando minha formação em Engenharia de Software e minha experiência em infraestrutura e atendimento ao cliente para criar soluções eficazes e inovadoras. Sempre busco aprender coisas novas e adquirir novas habilidades, reconhecendo a importância do aprendizado contínuo em um mundo tão dinâmico e em constante evolução.
 
-Isso me permite ter uma visão mais ampla e completa do projeto em que estou trabalhando, o que me possibilita criar soluções mais integradas e eficientes. Além disso, gosto de estar sempre aprendendo coisas novas e adquirindo novas habilidades, o que é fundamental nessa área tão dinâmica e em constante evolução.
+Tenho experiência trabalhando em projetos de diferentes segmentos e com equipes multidisciplinares, o que me permitiu ampliar meus conhecimentos em tecnologia, programação, análise de sistemas, arquitetura de software e metodologias ágeis. Sou um solucionador de problemas nato, com habilidades de liderança, comunicação eficaz e gestão de projetos.
 
-Na minha trajetória, tive a oportunidade de trabalhar em projetos de diversos segmentos e com equipes multidisciplinares, o que me permitiu ampliar meus conhecimentos e adquirir experiência em diferentes contextos. Atualmente, estou sempre em busca de novos desafios e oportunidades de crescimento profissional, e acredito que a atuação como full stack é o caminho ideal para isso.  
+Atualmente, estou procurando novos desafios e oportunidades de crescimento profissional, como desenvolvimento de aplicativos, gerenciamento de banco de dados e programação orientada a objetos. Se você está procurando por um profissional dedicado e apaixonado por desenvolver soluções inovadoras, eu adoraria conversar!
   
 
 <br/>  
