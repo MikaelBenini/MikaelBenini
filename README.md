@@ -14,7 +14,7 @@
 
 
 
-### Um pouco sobre mim!  
+### A little about myself!  
 Hello! My name is Mikael Siqueira Benini and I have a degree in Software Engineering. Since the beginning of my career, I have sought to work in the development of solutions, using my background in Software Engineering and my experience in infrastructure and customer service to create effective and innovative solutions. I always seek to learn new things and acquire new skills, recognizing the importance of continuous learning in such a dynamic and constantly evolving world.
 
 I have experience working on projects in different segments and with multidisciplinary teams, which allowed me to expand my knowledge in technology, programming, systems analysis, software architecture and agile methodologies. I am a born problem solver with leadership skills, effective communication and project management.
