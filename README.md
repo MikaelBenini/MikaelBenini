@@ -1,4 +1,4 @@
-## Olá 👋, Eu sou Mikael Benini !  
+## hello 👋, I Am Mikael Benini !  
   
 
 <a href="https://github.com/mikaelbenini" target="_blank">
@@ -15,17 +15,17 @@
 
 
 ### Um pouco sobre mim!  
-Olá! Me chamo Mikael Siqueira Benini e sou formado em Engenharia de Software. Desde o início de minha carreira, tenho buscado atuar no desenvolvimento de soluções, utilizando minha formação em Engenharia de Software e minha experiência em infraestrutura e atendimento ao cliente para criar soluções eficazes e inovadoras. Sempre busco aprender coisas novas e adquirir novas habilidades, reconhecendo a importância do aprendizado contínuo em um mundo tão dinâmico e em constante evolução.
+Hello! My name is Mikael Siqueira Benini and I have a degree in Software Engineering. Since the beginning of my career, I have sought to work in the development of solutions, using my background in Software Engineering and my experience in infrastructure and customer service to create effective and innovative solutions. I always seek to learn new things and acquire new skills, recognizing the importance of continuous learning in such a dynamic and constantly evolving world.
 
-Tenho experiência trabalhando em projetos de diferentes segmentos e com equipes multidisciplinares, o que me permitiu ampliar meus conhecimentos em tecnologia, programação, análise de sistemas, arquitetura de software e metodologias ágeis. Sou um solucionador de problemas nato, com habilidades de liderança, comunicação eficaz e gestão de projetos.
+I have experience working on projects in different segments and with multidisciplinary teams, which allowed me to expand my knowledge in technology, programming, systems analysis, software architecture and agile methodologies. I am a born problem solver with leadership skills, effective communication and project management.
 
-Atualmente, estou procurando novos desafios e oportunidades de crescimento profissional, como desenvolvimento de aplicativos, gerenciamento de banco de dados e programação orientada a objetos. Se você está procurando por um profissional dedicado e apaixonado por desenvolver soluções inovadoras, eu adoraria conversar!
+I am currently looking for new challenges and opportunities for professional growth, such as application development, database management and object-oriented programming. If you're looking for a dedicated professional passionate about developing innovative solutions, I'd love to talk!
   
 
 <br/>  
 
 
-## Linguagens e Feraamentas  
+## Tongues and Wounds
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
